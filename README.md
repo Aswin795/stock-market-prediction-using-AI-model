@@ -1,1 +1,1 @@
-# stock-market-prediction-using-AI-model
+# hand-writing-detection-using-streamlit
